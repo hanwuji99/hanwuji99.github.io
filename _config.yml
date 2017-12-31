@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
 keyword: "CodeHope, CodeHope's Blog, 码侯的博客, python web, 后端开发"
-url: "http://hanwuji99.github.io"          # your host, for absolute URL
+url: "https://hanwuji99.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hanwuji99/hanwuji99.github.io.git" # you code repository
 
